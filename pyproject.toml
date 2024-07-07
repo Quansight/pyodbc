@@ -8,7 +8,7 @@ requires-python = ">=3.8"
 #
 # https://cibuildwheel.readthedocs.io/en/stable/options/#requires-python
 
-description = "DB API module for ODBC"
+description = "DB API module for ODBC foo test whatever"
 readme = "README.md"
 license = {text = "MIT-0 License"}
 
